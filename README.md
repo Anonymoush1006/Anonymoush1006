@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KedKoders
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning AI algorithms
-- 📫 How to reach me: hg0524.kig@ked.edu.in, as0399.kig@ked.edu.in, ss0905.kig@ked.edu.in, kanchenanand.kig@ked.edu.in
+- 👋 Hi, I’m @Henna
+- 👀 I’m interested in huggingface libraries
+- 🌱 I’m currently learning AI algorithms, like hugging face, I wanna make a text classifier to analyse guilt and tone in interviews and samples and stuff to detect criminals
+- 📫 How to reach me: hg0524.kig@ked.edu.in
 - 😄 Pronouns: ...
   
 
